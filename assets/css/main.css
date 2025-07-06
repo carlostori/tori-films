@@ -103,7 +103,8 @@ input, select, textarea {
 	}
 
 	body {
-		background: #ffffff;
+		background-color: #000;
+                color: #fff;
 		overflow-x: hidden;
 	}
 
